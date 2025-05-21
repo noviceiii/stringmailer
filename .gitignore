@@ -1,0 +1,10 @@
+config.ini
+*.txt
+
+# ignore system files
+.DS_Store
+# ignore all logs
+*.log
+# ignore all tmp
+*.tmp
+ 
